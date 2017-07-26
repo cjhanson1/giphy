@@ -1,0 +1,17 @@
+.currentSearch {
+	display:inline-block;
+	margin:5px;
+}
+.clickableImage {
+	height:200px;
+}
+#gifs {
+	width:70%;
+}
+#search {
+	width:30%;
+	float:right;
+}
+.button {
+	margin:4px;
+}
